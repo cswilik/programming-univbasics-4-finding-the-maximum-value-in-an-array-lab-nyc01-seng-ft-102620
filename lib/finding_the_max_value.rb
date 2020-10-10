@@ -2,4 +2,4 @@ def find_max_value(array)
   
 end
 
-array.length?
+puts array.length?
